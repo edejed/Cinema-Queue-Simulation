@@ -5,7 +5,7 @@ import simpy
 
 
 seed = 42
-tickets = 50  # Tickets available per show
+tickets = 100  # Tickets available per show
 sim_time = 120  # The simulation will run until
 
 
